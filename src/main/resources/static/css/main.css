@@ -1,0 +1,26 @@
+.user-form {
+	display: inline-block;
+	width: 45%;
+	vertical-align: top;
+	margin: 20px;
+}
+.event-details-side {
+	display: inline-block;
+	width: 45%;
+	vertical-align: top;
+	margin: 20px;
+}
+.messages{
+	border: solid black;
+	padding: 1em;
+	min-height: 10px;
+	max-height: 200px;
+	overflow-y: scroll;
+}
+.message {
+	display: flex;
+	justify-content: space-between;	
+}
+.delete-form {
+	display: inline-block;
+}
